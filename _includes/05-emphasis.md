@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills 
+
+**ArcGIS**
+
+_Python_
+
+_Single-handedly managed the successful upgrade and deployment of new environmental illumination system with zero cost overruns and zero safety incidents._
